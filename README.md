@@ -1,5 +1,7 @@
 ### Hi there 👋
+I am Aleyna. I am graduated from Yasar University as computer engineer. 
 
+🔭 I’m currently working on data science and artifical intelligence areas. You can find my repos in this site. 
 <!--
 **AleynaSarisin/AleynaSarisin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
