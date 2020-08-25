@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Aleyna. I am graduated from Yasar University as computer engineer. 
+I am Aleyna. I am graduated from Yasar University as a computer engineer. 
 
 🔭 I’m currently working on data science and artifical intelligence areas. You can find my repos in this site. 
 <!--
