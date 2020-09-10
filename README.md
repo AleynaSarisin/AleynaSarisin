@@ -6,7 +6,7 @@ I am Aleyna. I am graduated from Yasar University as a computer engineer.
 
 
  📫 How to reach me :
- [![Linkedin Badge] (linkedin.com/in/aleyna-sarışın-91924a174)
+ [![Linkedin Badge](linkedin.com/in/aleyna-sarışın-91924a174)
 <!--
 **AleynaSarisin/AleynaSarisin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
